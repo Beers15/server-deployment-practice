@@ -14,7 +14,7 @@
 
   Production branch deployed [here](https://beers-server-deploy-prod.herokuapp.com/)
 
-  Pull req from dev: [https://github.com/Beers15/server-deployment-practice/pull/2](https://github.com/Beers15/server-deployment-practice/pull/2)
+  Pull req from dev found [here](https://github.com/Beers15/server-deployment-practice/pull/2)
 
 ## Uml Diagram
 
@@ -29,4 +29,4 @@
 * HTTP POST
   * Path: /talk
     * Demo route for application deployment practice
-    * supply query string argument with with key = 'words' or make a post request with a words property for response
+    * supply query string argument with one of the queries having the name 'words' or make a post request with the response body have a property of 'words' in order to recieve a response
