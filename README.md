@@ -14,7 +14,7 @@
 
   Production branch deployed [here](https://beers-server-deploy-prod.herokuapp.com/)
 
-  Pull req from dev: []()
+  Pull req from dev: [https://github.com/Beers15/server-deployment-practice/pull/2](https://github.com/Beers15/server-deployment-practice/pull/2)
 
 ## Uml Diagram
 
