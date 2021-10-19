@@ -1,24 +1,32 @@
 # Express Server
 
-Created by Jacob Knaack
-
 ## Installation
+
+  clone repo, and then run the 'npm i' command while in root directory to install dependencies.
 
 ## Summary of Problem Domain
 
+  Application created with the purpose of practicing continuous integration and continuous delivery of a web application.
+
 ## Links to application deployment
 
-## Include embedded UML
+  Deployment branch deployed [here](https://beers-server-deploy-dev.herokuapp.com/)
 
-## Talk about your routes
+  Production branch deployed [here](https://beers-server-deploy-prod.herokuapp.com/)
+
+  Pull req from dev: []()
+
+## Uml Diagram
+
+![diagram](./deployment-practice.png)
 
 ## Routes
 
 * HTTP GET
-  * Path: /repeat
-    * responds with the last string used in post route `/talk`.
+  * Path: /foo
+    * Demo route for application deployment practice
 
 * HTTP POST
   * Path: /talk
-    * Accepts a string.
-    * responds with a string in all caps.
+    * Demo route for application deployment practice
+    * supply query string argument with with key = 'words' or make a post request with a words property for response
